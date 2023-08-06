@@ -31,7 +31,7 @@
 ### Objetivo: Profundizar en algoritmos de ordenamiento más eficientes.
 ### 
 ## - Cálculo de números primos `avanzado`
-# Descripción: Encontrar números primos dentro de un rango dado.
+### Descripción: Encontrar números primos dentro de un rango dado.
 ### Objetivo: Practicar la optimización y la implementación de algoritmos eficientes. 
 ### 
 ## - Problema de la mochila (Knapsack) `avanzado`
